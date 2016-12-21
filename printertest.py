@@ -27,9 +27,9 @@ printer.boldOn()
 printer.println("Bold text")
 printer.boldOff()
 
-printer.underlineOn()
-printer.println("Underlined text")
-printer.underlineOff()
+#printer.underlineOn()
+#printer.println("Underlined text")
+#printer.underlineOff()
 
 printer.setSize('L')   # Set type size, accepts 'S', 'M', 'L'
 printer.println("Large")
